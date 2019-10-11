@@ -1,4 +1,4 @@
-# Weeks-10-11-Project-Honeypot
+# Honeypot Project
 
 * Which Honeypot(s) you deployed
     1. dionaea
